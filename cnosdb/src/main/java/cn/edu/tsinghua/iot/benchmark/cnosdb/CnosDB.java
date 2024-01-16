@@ -408,6 +408,7 @@ public class CnosDB extends InfluxDB implements IDatabase {
 
   /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
    * generate from and where clause for specified devices.
    *
@@ -417,6 +418,8 @@ public class CnosDB extends InfluxDB implements IDatabase {
 
   /**
 >>>>>>> 33e1d517 (update review problems)
+=======
+>>>>>>> 86bd9545 (update review problems)
    * Using in verification
    *
    * @param verificationQuery
