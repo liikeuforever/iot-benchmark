@@ -18,6 +18,7 @@ public class CnosConnection {
 
   private static Config config = ConfigDescriptor.getInstance().getConfig();
 
+
   OkHttpClient client;
 
   CnosConnection(String urlString, String cnosDbName) throws MalformedURLException {
