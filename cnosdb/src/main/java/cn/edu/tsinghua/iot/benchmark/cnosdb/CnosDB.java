@@ -407,19 +407,6 @@ public class CnosDB extends InfluxDB implements IDatabase {
   }
 
   /**
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-   * generate from and where clause for specified devices.
-   *
-   * @param devices schema list of query devices
-   * @return from and where clause
-   */
-
-  /**
->>>>>>> 33e1d517 (update review problems)
-=======
->>>>>>> 86bd9545 (update review problems)
    * Using in verification
    *
    * @param verificationQuery

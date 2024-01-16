@@ -15,13 +15,8 @@ import java.util.concurrent.TimeUnit;
 
 public class CnosConnection {
   private final String url;
-<<<<<<< HEAD
 
   private static Config config = ConfigDescriptor.getInstance().getConfig();
-
-=======
-  private static Config config = ConfigDescriptor.getInstance().getConfig();
->>>>>>> 54033260 (update review problems)
 
   OkHttpClient client;
 
